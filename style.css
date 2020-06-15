@@ -41,3 +41,7 @@ body {
 .post .body-img {
     /* padding: 10px; */
 }
+
+.img-swipe img {
+    width: 100%;
+}
